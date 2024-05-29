@@ -1,0 +1,131 @@
+--------------------------
+Guia de Git y Github
+--------------------------
+¿Que es el control de versiones?
+Es un sistema que registra los cambios en un archivo o conjunto de archivos a los largo del tiempo para que pueda recuperar versiones específicas mas adelantes. Es decir que idealmente; podemos colocar cualquier archivo en la computadora en el control de versiones 
+
+En teoría esto esté bien...¿Pero por que habriamos de hacer eso?
+
+Este es el por qué:
+
+Un sistema de control de versiones , que nos permite reveriti los archivos a un estado anteril revertir todo el proyecto a un estado anterior, revisar los cambios realizados a lo largo del tiempo , ver quien  lo modifico por ultima vez algo que podría estar causando un problema.
+
+Entonces ¿Qué es GIT?
+
+en pocas palabra es un sistema de control de versiones que permite registrar todos los cambios y modificaciones del software.Es decir Git te ayuda a realizar un seguimiento de los cambios que realizas en tu codigo, es basicamente  la pestaña de historial para tu editor de codigo...
+
+Nota:
+-Usaremos $ para describir los comandos que se usaran con usuario regular.
+
+-Usaremos # para describir los comandos que se usaran con superusuario.
+
+-Comandos para manipular GIT 
+-----
+
+Lo primero que debemos hacer despues de la instalacion es configurar nuestro
+Git.
+
+Asignamos el nombre de usuario que será la firma del usuario en cada commit.
+
+$ git config --global user.name "Kevin Fernández"
+
+Igualmente el correo que siempre acompañara al autor de cada commit.
+
+$ git config --global user.email kevinsafl@example.com
+
+----
+
+Comprobar el valor de las variables de configuración inicial de git, las que
+acabamos de introducir.
+
+$ git config --list
+
+-----
+
+Crear un directorio, dentro del directorio ejecutar para crear un nuevo repositorio de git, nos crea una carpeta .git.
+
+$ git init
+
+Dentro están todos los ficheros de configuración de git para ese repositorio
+específico.
+
+-----
+
+-----
+
+Instalar Git
+
+# app install git 
+
+-----
+
+Con este comando nos dará la lista de comando que podemos usar en un proyecto
+
+$ git 
+
+-----
+
+Para saber la version de nuestro Git 
+
+$ git --version 
+
+-----
+
+Comando que se usa para agregar un archivo que está en el directorio de trabajo al área de preparación.
+
+# git add 
+
+-----
+
+comando que se usa para agregar todos los archivos que están almacenados en el repositorio local.
+
+# git commit 
+
+-----
+
+Comando que se usa pra agregar un comentario sutil
+
+$  git commit -m + "el comentario"
+
+-----
+
+comando que se usa para agregar todos los archivos comprometidos en el repositorio local al repositorio remoto. Entonces, en el repositorio remoto, todos los archivos y cambios serán visibles para cualquier persona con acceso al repositorio remoto.
+
+# git push  
+
+-----
+
+Comando para subir los cambios a github 
+
+$ git push -u origin main 
+
+-----
+
+Comando que se usa para obtener archivos del repositorio remoto al repositorio local, pero no al directorio de trabajo.
+
+# git fetch 
+
+-----
+
+comando que se usa para obtener los archivos del repositorio local en el directorio de trabajo.
+
+# git merge 
+
+-----
+
+Este comando se usa para obtener archivos del repositorio remoto directamente en el directorio de trabajo. es equivalente a un git fetch y un git merge .
+
+# git pull 
+
+-----
+
+
+
+
+
+
+
+
+
+
+
