@@ -1,0 +1,323 @@
+COMANDOS DE LA CONSOLA GNU/LINUX 
+
+ los comandos en Linux se ejecutan  en la CLI(COMMAND LINE INTERFACE) interacción  mediante el texto una consola no es otra cosa que el medio o método de interacción entre el usuario y  la maquina.
+
+-CLI se basa en el uso de un lenguaje codificado
+-GUI graphical user interfas interaccionan de elementos gráficos posibilita una interacción amigable e intuitiva. 
+
+Nota:
+-Usaremos $ para describir los comandos que se usaran con usuario regular.
+
+-Usaremos # para describir los comandos que se usaran con superusuario.
+
+
+-----
+
+Abrimos la consola
+
+$ ctrl+alt+t 
+
+-----
+
+limpiamos la lineas de código
+
+$ clear 
+
+-----
+
+Para instalar paquetes o programas
+
+$ sudo apt install
+
+-----
+
++ (el programa que  deseamos instalar )
+
+$ sudo apt install 
+
+-----
+
+Se cancela en la terminal , interrumpe 
+
+$ ctrl+c 
+
+-----
+
++ El programa que se desea eliminar
+
+$ sudo apt remove
+
+-----
+
+Elimina los rastros de de actualizaciones de programas 
+
+$ sudo apt autoremover
+
+-----
+
+limpia el cache de los programas
+
+$ sudo apt autoclear
+
+-----
+
+Cambiar o mover , dentro del terminal 
+
+$ cd 
+
+-----
+Regresar al origen 
+
+$ cd ..  
+
+----
+
+Regresar al origen 
+
+$ cd --
+
+-----
+
+Directorio de nivel superior (origen)
+
+$.. 
+
+-----
+
+Crear archivo
+
+$ touch 
+
+-----
+
+Crear directorio(carpetas)
+
+$ mkdir 
+
+-----
+
+Lista
+
+$l s 
+
+-----
+
+Lista larga
+
+$ -l 
+
+-----
+
+Copiar
+
+$ cp 
+
+-----
+
+Imprimir el directorio de donde estamos 
+
+$ pwd 
+
+-----
+
+Remover o borrar un archivo no deseado 
+
+$ rm 
+
+-----
+
+Eliminar recursivamente se usa para el eliminar directorios
+
+$ -r 
+
+-----
+Muestra lo que hay en el archivo
+
+$ cat 
+
+-----
+
+Mover los archivos 
+
+$ mv 
+
+-----
+
+Muestra la fecha.
+
+$ date
+
+-----
+
+Asignar la fecha manualmente.
+
+$ date --set 1998-11-02
+
+-----
+
+Asignar la hora manualmente.
+
+$ date --set 21:08:00
+
+-----
+
+remplazo de linea de codigo anterior 
+
+$ !!
+
+-----
+
+Con las siglas (S)(si) y (N)(no) aceptar o negar una opción 
+
+-----
+
+conmando para manipular la informacion del archivo (txt)
+ 
+# Nano
+
+----- 
+
+Muestra un calendario.
+
+$ cal
+
+-----
+
+Ver informacion de los discos duros, particiones y dispositivos montados en el
+sistema.
+
+# fdisk -l
+
+-----
+
+Este comando muestra todos los puertos USB y los detalles acerca de los
+dispositivos conectados a ellos.
+
+$ lsusb
+
+-----
+
+-Tips para la consola de comandos
+
+
+Repetir el ultimo comando ejecutado en consola.
+
+!!
+-----
+
+Ejecución multiple de comandos
+
+$ comando && comando && comando
+
+-----
+
+Cortar el contenido de la linea de comandos desde la posicion del cursor hasta
+el principio.
+
+Ctrl + u
+
+-----
+
+Cortar el contenido de la linea de comandos desde la posicion del cursor hasta
+el final.
+
+Ctrl + k
+
+-----
+
+Intercambiar de posicion las letras que estan a cada lado del cursor.
+
+Ctrl + t
+
+-----
+
+Limpiar el shell.
+
+Ctrl + l
+
+-----
+
+En el shell, cerrar sesion, salir del root, de maquinas virtuales o de sesiones
+de usuarios iniciadas.
+
+Ctrl + d
+
+-----
+
+Moverse en el prompt palabra a palabra, no letra por letra.
+
+Ctrl + flecha derecha o izquierda
+
+-----
+
+Borrar la palabra que esta antes del cursor en el shell.
+
+Ctrl + w
+
+-----
+
+Parar la salida por pantalla. Si por ejemplo ejecutamos un comando que tiene una
+salida inmensa, podemos hacer que trabaje en silencio.
+
+Control + s
+
+-----
+
+Permitir la salida por pantalla, inverso al comando anterior.
+
+Control + q
+
+-----
+
+Borrar palabra
+
+Alt + d
+
+-----
+
+Comandos para listar los directorios
+
+-----
+
+Muestra lo que hay en la carpeta en la que te encuentras.
+
+$ ls
+
+-----
+
+Muestra los archivos, fecha, permisos, etc.
+
+$ ls -l
+
+-----
+
+Muestra los archivos, fecha, permisos, y el peso pero en kb,mg o gb según sea el
+caso.
+
+$ ls -lh
+
+-----
+
+Muestra los archivos, los ocultos tambien, fecha, permisos, etc.
+
+$ ls -la
+
+-----
+
+Muestra los archivos en forma de lista.
+
+$ ls -1
+
+-----
+
+
+
+
+
+
+
+
+
+
+
+
