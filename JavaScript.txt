@@ -1,0 +1,129 @@
+Javascript
+
+¿Qué es JavaScript realmente?
+Es un robusto lenguaje de programación que se puede aplicar a un documentos HTML y usarse para crear interactividad dinámica en los sitios web. Fue inventado por Breandan Eich, cofundador del proyecto Mozilla, Mozilla Foundation y la Corporación Mozilla. 
+
+Puede hacer casi cualquier cosa con javascript. Puedes empezar con pequeñas cosas como carruseles , galerías de imágenes , diseños fluctuantes, y respuestas a la pulsaciones de botones , con mas experiencia , serás capaz de crear juegos , animaciones 2D y Gráficos 3D, aplicaciones integradas basadas en bases de datos 
+
+JavaScript por si solo es bastante compacto aunque muy flexible y los desarrolladores han escrito gran cantidad de herramientas encima del nucle del lenguajes JavaScript, desbloqueando una gran cantidad de funcionalidad adicional con un mínimo esfuerzo. Donde nos presta una gran de beneficios a la hora de trabajar con el, algunos son:
+
+	Interfaces de programación de aplicación del navegador (APIs)-APIs construidas dentro de los navegadores que ofrecen funcionalidades como crear dinámicamente contenido html y establecer estilos CSS, hasta capturar y manipular un vídeo desde la cámara web del usuario , o generar gráficos 3D y muestras de sonido.
+
+	APIs de terceros que permiten a los desarrolladores incorporar funcionalidades en sus sitios de otros proveedores de contenidos como Twitter Facebook.
+
+	Marcos de trabajo y libreras de terceros que puedes aplicar a tu HTML para que puedes construir y publicar rápidamente sitios y aplicaciones  
+
+Ejemplo “Hola mundo”
+
+    La sección de arriba suena realmente emocionante , y debería serlo. JavaScript es una de la tecnologias web mas emocionantes , y cuando comiences a ser bueno en su uso tus sitios web entraran en una nueva dimensión de energía y creatividad. 
+
+    Sin embargo , sentirse “cómodo con Javascript” es un poco mas difícil que sentirse cómodo con HTML y CSS . Deberás comenzar poco a poco y continuar trabajando en pasos pequeños y consistentes , para comenzar mostraremos como añadir JavaScript Básico a  tu pagina , creando un “Hola Mundo ” un ejemplo muy estándar en los principiantes en la hora de programar.
+
+1. Primero , ve a tu sitio de pruebas y crea una carpeta llamasa scripts.luego , dentro de la nueva carpeta de Scripts, crea un nuevo archivo llamdo main.js y guardalo
+
+2. A continuacion , abre tu archivo index.html e introduce el siguientes codigo en una nueva lineas, justo antes de la etiqueta de cierre </body>
+
+<script src=”scripsts/main.js></script>”
+
+3. Esto hace basicamente el mismo trabajo que el elemento <link> para CSS: aplica el  código JavaScript a la pagina , para que puede actuar sobre el HTML (y CSS o cualquier cosa en la pagina)
+4. Ahora añade el siguiente codigo al archivo main.js:
+ JS
+const miTitulo =  document . QuerySelector (“h1”) ;
+miTitulo. TextContente = “Hola mundo ”
+
+5. Finalmente asegúrate de que has guardado los archivos HTML y Javascript y abre index.html
+en el navegador .
+
+-NOTA: La razón por la que has puesto el elemento <script> casi al final del documento HTML es porque el navegador carga el HTML en el orden en que aparece en el archivo .
+Sis se cargaran primero Javascript y se supone que debe adectar al HTML que  tiene debajo podría no funcionar , ya que ha sido cargado ante que el HTML sobre el que se supone debe trabajar. Por lo tanto , colocar el Javascript cerca del final de la pagina normalmente es la mejor estrategia . 
+
+¿Que ha ocurrido?
+    El texto del titulo ha sido cambiado por “Hola Mundo”  usando javascript hiciste esto primero usando la función (querySelector) para obtener una referencia al titulo y almacenarla en una variable llamanda miTitulo. Esto es muy similar a lo que hiciste con Css usando selectores – quieres hacer algo con  un elemento , asi que tienes que seleccionarlo primero.
+
+    Después de eso Estableciste el valor de la propiedad textcontent de la variable de eso , estableciste el valor de la propiedad textContent de la variable miTitulo (que representa el contenido del titulo) como “hola mundo  ”
+ 
+-Fundamentos del lenguaje
+
+    Ahora se explicaran algunas de la funciones básicas del lenguajes JavaScript para que puedes comprender mejor como funciona todo . Mejor aun , estas características son muy comunes para todos los lenguajes de programación. Si puedes entender esos fundamentos , deberías ser capaz de comenzar a programar en casi cualquier cosa.
+
+-Variables
+
+    Las variables son contenedores en los que puedes almacenar valores. Primero debes declarar la variable con la palabra clave (var, ,menos recomendado) o let, seguida del nombre que le quieras dar. Se recomienda mas uso de let que de var (mas adelante se profundiza un poco sobre esto)
+
+JS
+let nombredelavariable
+
+-Nota:Todas las lineas en JS deben acabar en punto y coma(;) para indicar que es ahí  donde termina la declaración, si no  los incluyes puedes obtener resultados inesperados . Sin embargo , algunas personas creen que es una buena practica tener punto y coma al final de cada declaración . Hay otras reglas cuando se debe y no se debe usar el punto y coma.
+
+-Nota:JavaScript distingue entre mayúsculas y minúsculas.
+Mivariable es una variable distinta a mivariable , si estas teniendo problemas con tu código revisa las mayúsculas y minúsculas 
+
+Tras declarar una variable puedes asignarle un valor 
+
+JS
+nombredelavariable = “Bob” ;
+
+Puedes Hacer las dos cosas en la misma linea si lo necesitas 
+
+JS
+let nombredelavariable= “Bob” ; 
+
+Puedes obtener el valor de la variable llamandola por su nombre 
+ 
+JS
+nombredelavariable;
+
+Despues de haberle dado un valor a la variable , puedes volver a cambiarlo:
+
+JS
+let nombredelavariable = “Bob ” ; 
+nombredselavariable  = “Steve ” ;
+
+No obstante , tenemos que tener en cuanta que exixten distintos tipos de datos.
+
+Variable (String)
+Esto es una secuencia de texto conocida como cadena , para indicar que la variable es una cadena, debes escribirlo entre comillas.
+(let mivariable= “Bob” ;)
+
+Variable (Number)
+esto es un numero , los numeros , no tienen comillas.
+(let mivariable = 10 ;)
+
+variable (Boolean)
+Tienen valor verdadero/falso. True/false , son palabras especiales en JS, y no necesitan comillas 
+(let mivariable = true ;)
+
+Vareiable (Array)
+Una estructura que te permite almacenar varios valores en unas sola referencia  
+(let mivariable = 1, “Bob”, “Steve”,10 ;)
+llama a cada miembro de array así:
+(mivariable “0”), (mivariable”1”) , etc.
+
+Variable (Object)
+Basicamente cualquier cosa , todo en JavaScript es un objeto y puede ser almacenado en una variable. Mantén esto en mente mientras aprendes.
+(let mivariable= document.queryselecotr(“h1”))
+todos los ejemplos anteriores también 
+
+
+Entonces , ¿para que necesitamos las variables ? Las variables son necesarios para hacer cualquier cosas interesante en programación , si los valores no pudieran cambiar , entonces no podrías hacer nada dinámico , como personalizar un  mensaje de bienvenida de un usuario que visita tu pagina; cambiar la imagen que se muestra en una galería de imágenes etc.
+
+Comentarios 
+Puedes escribir comentarios entre el codigo Javascript, igual que puedes en CSS , el navegador ignora el texto marcado como comentario , en javascriopt, los comentarios de una sola linea se escribe así:
+
+JS 
+// Esto es un comentario 
+
+pero tambien puede escribir comentario en mas de una linea , igual que en CSS. 
+
+JS
+
+/*
+Esto es un comentario 
+de varias lineas 
+*/
+
+-Operadores 
+ 
+    Un  operador es básicamente un símbolo matemático que puede actuar sobre dos valores (o variables ) y  producir  un resultado. 
+
+
