@@ -1,0 +1,80 @@
+Fundamentos de la programación 
+
+	Son los conceptos básicos que se deben conocer para poder programar , la programación es el proceso de diseñar , escribir, probar , depurar y mantener  el código fuente de un programa informático. El código fuente es un conjunto de instrucciones escritas en un lenguaje de programación específico , que conjunto de tareas específicas 
+
+Algunos de los conceptos que debemos de conocer son: 
+
+-Punteros: Los punteros son variable que almacenan direcciones de memoria y permiten acceder a la memoria directamente , se utilizan para crear estructuras de datos dinámicas , como listas enlazadas y arboles . Los punteros son un concepto avanzado y deben ser manejados cuidadosamente para evitar errores de seguridad y problemas de memoria
+
+-Estructura de datos: son formas de organizar y almacenar datos en la memoria de una computadora , algunos ejemplos de estructuras de datos comunes son los arreglos , las listas enlazadas , las pilas y las colas . El conocimiento de las estructuras de datos es fundamental para poder diseñar y manipular eficientemente los datos en un programa  
+
+-Algoritmos :son secuencias de pasos lógicos y bien definidos que resuelven  un programa o realizan  una tarea especificas . Los algoritmos son la base de la programación y permiten que los programas realicen  deseadas. Es importante comprender como diseñar y analizar algoritmos eficientes para optimizar el rendimiento de los programas 
+
+-lenguajes de programación: se defines como los sistemas formales que permiten escribir instrucciones que una computadora puede interpretar y ejecutar , cada lenguaje de programación tiene su propia sistaxis y  reglas  gramaticales . Es necesario aprender al menos un lenguaje de progrmacion par poder programar y aplicar los conceptos fundamentales. 
+
+-----------------------
+Programas y Algoritmos 
+
+Los lenguajes de programación , cuentan todos en su haber con un juego de “instrucciones”.
+
+Una instrucción no es mas que una orden que nosotros  le damos a la maquina  , y es que al fin y al cabo un programa no es mas que una secuencia de instrucciones (escritas en algún lenguaje de programación) pensado para resolver algún tipo de problema.
+
+Si no sabemos que es una suma , seria casi imposible hacer un programa para que nos sume dos números , a no ser que alguien nos ayudara.
+
+¿que es un algoritmo ?
+
+Un algoritmo es una secuencia de pasos  a seguir para resolver un problema ojo “un algoritmo es una sucesion finita de pasos (no de instrucciones como en los programas ) no ambiguos que se pueden llevar a cabo en un tiempo finito ”
+
+algunos programadores reflejan ese algoritmo mediante un pseudocodigo o un diagrama de flujo 
+
+¿Qué es un diagrama de flujo?
+Es una representacion gráfica del algoritmo , se expresa los pasos del algoritmo mediante un esquema con unos símbolos establecidos .
+
+¿que es pseudocódigo ?
+
+Es una forma de escribir los pasos pero de la forma mas cercana al lenguaje de programación que vamos a utilizar es como un falso lenguaje pero en nuestro idioma , en el lenguaje humanos , como yo lo llamo , “correr el programa en frío ”
+  
+Para cualquier  individuo que este iniciando en la mundo de la programación , necesita saber la seria de conceptos básicos
+ 
+-El proceso de la programación: La programación de computadores es un proceso que se origina en la concepción de una idea por la cual , se representa por estructuras lógicas que se transforma por comandos procesables por un lenguajes de programación.
+
+-Definición del problema : esta etapa consiste en poder describir o interpretar una determinada situación de la vida real , de algún sistema físico , comercial , matemático , etc.
+
+-Analisis del problema : Cuando hablamos de análisis de problema , es la habilidad de detectar problemas , reconocer información importante y asociar los diferentes datos; de identificar los posibles causas y buscar detalles relevantes . 
+
+-Diseño del programa : Es el resultado de un análisis de un área, sus antecedentes , el contexto y las variables involucradas . Estableciendo una series de pasos, estructurados (Estamos hablando de Pseudocódigo y el diagrama de flujo ).
+
+-Codificación del Algoritmo :Se transforma el Pseudocódigo a un diagrama de flujo a un código de algún lenguaje de programación (Pseint , C++, Java, JavaScript…)
+
+-Implantación del programa : Es la ejecución del programa cuando el funcionamiento ha sido correctamente como se esperaba 
+
+-Mantenimiento del programa: El entorno digital cambia a media del tiempo esto hace que las necesidades cambien y que un programa se vuelva Obsoleto , por ello es necesario realizarle continuas optimizaciones.
+
+----------------------------------
+Los Algoritmo y su representación 
+----------------------------------
+
+Según Cairo (2009) Un algoritmo es un “conjunto de pasos , procedimientos o acciones que nos permiten alcanzar un resultado o resolver un problema ”
+
+Normalmente un algoritmo debe cumplir con las siguientes características:
+
+-Finito: Un número determinado de pasos en un tiempo limitado 
+
+-Definido: el orden en que se realicen los pasos un puede presentar ambigüedades (hecho o palabras que pueden entenderse o interpretarse de diversas maneras) 
+
+-Tipos de datos : Tipos de datos puede contener y almacenar los datos 
+
+Ejemplos:
+
+-NUMÉRICOS : Corresponde a los datos cuantificables.
+
+-ENTERO : El salario de una persona corresponde a un valor entero.
+
+-REALES:  representa la aproximación de un numero real 
+
+-CARÁCTER : Corresponde a los valores que puede tomar cualquier símbolo del teclado 
+
+-LÓGICOS Corresponde a los valores que puede tomar una condición 
+
+
+
