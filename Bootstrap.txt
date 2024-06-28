@@ -1,0 +1,26 @@
+Bootstrap es un framework CSS y Javascript diseñado para la creación de interfaces limpias y con un diseño responsive.
+¿Qué es un framework?
+Un framework es un esquema o marco de trabajo que ofrece una estructura base para elaborar un proyecto con objetivos específicos, una especie de plantilla que sirve como punto de partida para la organización y desarrollo de software.
+¿Para qué nos sirve framework?
+Un framework sirve para acometer un proyecto en menos tiempo, y en el sector de la programación, con un código más limpio y consistente, de manera rápida y eficaz. El framework ofrece una estructura base que los programadores pueden complementar o modificar según sus objetivos.
+Actualmente, Bootstrap es una de las alternativas más populares a la hora de desarrollar tanto sitios webs como aplicaciones. Una de las principales ventajas que ofrece es que permite la creación de sitios y apps 100% adaptables a cualquier tipo de dispositivo. Una cuestión de suma importancia teniendo en cuenta que a día de hoy son cada vez más los usuarios que acceden a Internet a través de sus teléfonos y tabletas. Veamos un poco más en profundidad ¿qué es bootstrap?
+
+¿Que es bootstrap y para qué nos sirve?
+
+Bootstrap es un framework que permite a los desarrolladores web construir páginas web responsives de una forma más rápida y sencilla. En este sentido, proporciona un conjunto de componentes y plantillas CSS, HTML y JavaScript que cualquiera puede utilizar o modificar de manera gratuita. 
+Su origen lo encontramos en las oficinas de Twitter, donde Mark Otto y Jacob Thornton lanzaron la primera versión en agosto de 2011 bajo el nombre Twitter Blueprint. Inicialmente, esta fue una herramienta interna que permitía que el diseño de esta popular red social fuera coherente y consistente. Sin embargo, meses más tarde, Twitter liberó el código y el framework en GitHub y lo renombró como Bootstrap. 
+Actualmente, Bootstrap se encuentra en su quinta versión y se ha convertido en uno de los frameworks  de desarrollo más populares. De hecho, según estadísticas de W3Techs, el 19% de las páginas web lo utilizan.
+Características de Bootstrap
+Desde Axarnet, nuestra empresa de hosting española, te contamos cuáles son las características principales de Bootstrap:
+Soporte
+Esta es una de las principales señas de identidad de Bootstrap, y también una de sus grandes ventajas. Ofrece un soporte extraordinario con HTML5 y CC3. Así, los usuarios pueden hacer uso de él con una gran flexibilidad, y obteniendo unos resultados excelentes.
+Sencillo de manejar
+Gracias a un sistema GRID que permite realizar un diseño haciendo uso de 12 columnas para insertar el contenido, los usuarios pueden crear sitios web responsive de una manera mucho más sencilla e intuitiva.
+Imágenes
+A la hora de crear contenido adaptado para dispositivos móviles, el contenido en formato texto es muy importante, pero las imágenes también. Así, Bootstrap permite insertar imágenes responsive de una forma muy fácil. Basta con añadir la etiqueta “img-responsive”; de esta manera, las imágenes se adaptan de manera automática a la pantalla del dispositivo.
+Cómo funciona
+Entender el funcionamiento de Bootstrap es relativamente sencillo. En líneas generales, se basa en una estructura dividida en un total de 12 columnas que los desarrolladores pueden gestionar en función de sus necesidades y preferencias, en función de cuatro tamaños de dispositivo.
+Origen de Bootstrap
+Bootstrap es un framework CSS relativamente nuevo. Su origen se remonta al año 2011. Fue desarrollado por la compañía Twitter y su principal función era la de dar forma a un determinado sitio web a través de las librerías CSS, las cuales incluyen una amplia selección de elementos: botones, cuadros, menús, diferentes tipografías… Tan solo unos meses después de su lanzamiento, Bootstrap fue liberado con la licencia Mit.
+
+
