@@ -1,0 +1,61 @@
+Gestor de Bases de datos 
+Qué es un sistema gestor de base de datos:
+Un sistema gestor de base de datos (SGBD) o Database Management System (DBMS) es un conjunto de programas invisibles para el usuario final con el que se administra y gestiona la información que incluye una base de datos.
+Los gestores de datos o gestores de base de datos permiten administrar todo acceso a la base de datos, pues tienen el objetivo de servir de interfaz entre esta, el usuario y las aplicaciones.
+Entre sus funciones se encuentran la de permitir a los usuarios de negocio almacenar la información, modificar datos y acceder a los activos de conocimiento de la organización. Asimismo, el gestor de base de datos también se ocupa de realizar consultas y hacer análisis para generar informes.
+Además, los sistemas de gestión de base de datos pueden entenderse como una colección de datos interrelacionados, estructurados y organizados en el ecosistema formado por dicho conjunto de programas que acceden a ellos y facilitan su gestión.
+Qué permiten los SGBD:
+En pocas palabras, el gestor de base de datos controla cualquier operación ejecutada por el usuario contra la BBDD. Para desarrollar esta función, es normal que se requieran herramientas específicas, como por ejemplo sistemas de búsqueda y de generación de informes, así como distintas aplicaciones. Los gestores de base de datos también permiten lo siguiente:
+●Que las interacciones con cualquier base de datos gestionada puedan desarrollarse siempre separadamente a los programas o aplicaciones que los gestionan.
+●La manipulación de bases de datos, garantizando su seguridad, integridad y consistencia.
+●La definición de bases de datos a diferentes niveles de abstracción.
+Tipos de database management system
+Respecto a su tipología, los sistemas de gestión de bases de datos se clasifican según el modo en que se organizan los datos almacenados:
+Con base en modelos de datos
+●Sistema jerárquico: basado en un esquema de árbol para organizar los datos representados en tablas (las filas se componen por cada registro y las columnas por cada atributo) relacionados por correspondencias. 
+●Sistema en red: estructura con relaciones complejas, ya que cada registro puede rastrearse desde diferentes caminos. 
+●Sistema relacional: almacena datos en filas y columnas formando tablas conectadas por claves comunes. 
+●Sistema multidimensional: estructura con aspecto de hoja de cálculo donde los datos se almacenan como se ven.
+●Sistema de objetos: almacena cualquier tipo de dato gráfico, como imagen, audio o texto. 
+Con base en la cantidad de usuarios:
+Depende de la cantidad de personal que requiera trabajar con las database. Así, el sistema de gestión de base de datos puede usarse para que solo un usuario acceda a la vez o para que admita varios.
+Una de sus ventajas es que se puede ser más específico con el tipo de usuario que puede visualizar y hacer movimientos en la base de datos, siempre en función de la privacidad que necesite la empresa. 
+Con base en su distribución:
+●Sistema de gestión de datos centralizados: el sistema de gestión y las bases de datos se almacenan y operan desde un único lugar. Así, la información de cada área y herramienta de administración de datos se reflejan en una única plataforma.
+●Sistema de gestión de datos distribuidos: tanto la base de datos y como el sistema de gestión están conectados por una red informática aunque estén en diferentes lugares.
+Funciones de un gestor de base de datos
+Un SGBD permite definir los datos, además de manipularlos, aplicar medidas de seguridad e integridad y recuperarlos o restaurarlos después de producirse algún tipo de fallo. Algunas de las funciones principales de los gestores de bases de datos son las siguientes:
+    1. Contribuyen a la creación de bases de datos más eficaces y consistentes. 
+    2. Determinan las estructuras de almacenamiento del sistema. 
+    3. Facilitan las búsquedas de datos de cualquier tipo y procedencia a los usuarios de negocio. 
+    4. Ayudan a mantener la integridad de los activos informacionales de la empresa. 
+    5. Introducen cambios en la información, si es requerido. 
+    6. Simplifican los procesos de consulta. 
+    7. Controlan los movimientos que se observan en la base de datos. 
+Ejemplos de DBMS
+En la actualidad hay gestores de bases de datos que cumplen un modelo para acceder a la misma de modo más sencillo, con lenguajes de consulta que permiten generar informes, analizar, garantizar la seguridad y la integridad de los datos.
+1. MySQL
+MySQL es un SGBD que está escrito en C y C++ y, además, está provisto de un analizador sintáctico de SQL basado en Yacc con un tokenizador (escáner léxico) propio. Además, el sistema de gestión de bases de datos se destaca por su amplio soporte de sistemas operativos.
+2. Microsoft SQL Server
+Microsoft SQL Server es una herramienta para la gestión de bases de datos cuyo principal lenguaje de consulta es Transact-SQL, una aplicación de las normas ANSI/ISO estándar Structured Query Language (SQL).
+Algunas de sus características son las siguientes:
+● Soporte de transacciones.
+●Escalabilidad, estabilidad y seguridad.
+●Soporta procedimientos almacenados.
+●Incluye un potente entorno gráfico de administración que permite el uso de comandos DDL y DML gráficamente.
+●Permite trabajar en modo cliente-servidor, donde la información y datos se alojan en el servidor y las terminales o clientes de la red sólo acceden a la información.
+● Permite administrar información de otros servidores de datos.
+Microsoft SQL Server es uno de los principales sistemas de gestión de base de datos del mercado, dispone de un amplio abanico de aplicaciones de software destinados a la inteligencia empresarial y analítica de mercado. 
+3. Oracle
+Oracle es un database management system utilizado principalmente por las grandes empresas para que puedan controlar y gestionar una gran cantidad de contenidos desde un solo archivo.
+Así se consigue minimizar el riesgo de pérdida de información, además de reducir costes. Entre sus acciones se pueden destacar las siguientes: soporte de transacciones, estabilidad y soporte multiplataforma de Windows, Linux, Mac OS X, Unix y BDS.
+Las principales características de Oracle son las siguientes:
+● Control de acceso, al usar tecnología avanzada que vigila quién accede a los datos.
+●Se trata de una herramienta cómoda de utilizar, puesto que es muy intuitiva.
+● Gestión segura de la protección de los datos, además de las copias de seguridad.
+●Pueden visualizarse los datos de consulta en tablas con el formato de filas y columnas con la vista materializada.
+También es posible compartir la información almacenada, que puede consultarse a través de distintas aplicaciones. Otro de sus beneficios es que su lenguaje de diseño (PL/SQL) permite la aplicación de diseños “activos” adaptables a las necesidades de la empresa en un momento determinado.
+Un sistema de gestión de base de datos, imprescindible para una empresa
+En resumen, un gestor de base de datos da una serie de servicios y lenguajes para la creación, configuración y manipulación de la base de datos, además de mecanismos de respaldo.
+Las organizaciones que usan un sistema gestor de base de datos también pueden almacenar una descripción de dichos lenguajes en un diccionario de datos y también asegurar su mantenimiento, proporcionando un acceso controlado a la misma.
+
