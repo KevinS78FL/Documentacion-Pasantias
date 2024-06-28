@@ -1,0 +1,24 @@
+Manejador de base de datos Postgresql
+
+PostgreSQL es un manejador de base de datos relacionales, completamente open source, el cual podemos usarlo en prácticamente cualquier sistema operativo, ya sea Linux, Unix o Windows. Esto sin duda lo convierte en uno de los manejadores de base de datos más populares en la actualidad.
+
+A diferencia de otros manejadores de base de datos como MySQL o SQLServer, podemos decir que PostgreSQL es más que un manejador, es una plataforma de aplicaciones. Por ejemplo, con este manejador seremos capaces de escribir procedimientos almacenados y funciones con diferentes lenguajes de programación, como lo puede ser Perl, Python, R o Java. Sin duda algo bastante cool, que muy probablemente veremos en otro tutorial, puesto que en esta ocasión tendremos nuestro primer acercamiento con este magnífico gestor de base de datos. 
+
+PostgreSQL es un sistema de gestión de bases de datos relacional de código abierto con una amplia gama de características y ventajas. Algunos de los aspectos más destacados de PostgreSQL incluyen: 
+    • Seguridad y Fiabilidad: PostgreSQL prioriza la seguridad de los datos almacenados al ofrecer medidas sólidas, como autenticación avanzada, encriptación de datos, control de acceso a nivel de columna y capacidades de auditoría. Además, ha ganado una reputación como un sistema confiable y estable, utilizado por organizaciones y empresas en todo el mundo 
+
+    • Características Robustas: PostgreSQL cuenta con conjuntos de características sólidas, como la recuperación en un punto en el tiempo, Control de Concurrencia de Múltiples Versiones (MVCC), espacios de tabla, controles de acceso granulares, replicación asincrónica, un planificador/optimizador de consultas refinado y registro anticipado de escritura. Estas características lo hacen un sistema tolerante a fallos y capaz de manejar bases de datos de varios tipos y niveles de complejidad con un rendimiento óptimo. 
+      
+    • Conformidad con Estándares: PostgreSQL afirma una alta conformidad, aunque no completa, con el estándar SQL más reciente. En la versión 15, PostgreSQL se conforma al menos a 170 de las 179 características obligatorias para la conformidad central de SQL:2016. Sin embargo, existen algunas excepciones y deficiencias en comparación con el estándar, como el manejo de identificadores no entrecomillados.
+       
+    • Escalabilidad y Usos: PostgreSQL es altamente escalable y puede manejar una gran cantidad de información y un alto número de conexiones simultáneas. Es utilizado en una variedad de aplicaciones, desde el manejo de grandes bases de datos hasta su uso en sistemas de registro de dominios a nivel global, entre otros usos. 
+
+Uso y Aplicaciones
+PostgreSQL es utilizado en una amplia gama de aplicaciones, incluyendo: 
+    • Gestión de Grandes Bases de Datos: PostgreSQL fue diseñado para manejar grandes bases de datos, con un alto número de conexiones activas simultáneas. Es utilizado en aplicaciones que requieren un manejo eficiente de grandes cantidades de datos, como el sistema de registro de dominios .org a nivel global.
+       
+    • Aplicaciones Gubernamentales y de Infraestructura: La extensión PostGIS de PostgreSQL proporciona funciones que ayudan en el procesamiento de formas geométricas, lo que resulta útil en aplicaciones gubernamentales, servicios de infraestructura de electricidad, servicios de emergencia y agua, entre otros.
+       
+    • Desarrollo y Administración de Bases de Datos: PostgreSQL es utilizado en entornos de desarrollo y administración de bases de datos, con herramientas como Adminer que facilitan la creación, administración y manipulación de bases de datos PostgreSQL. 
+
+En resumen, PostgreSQL es un sistema de gestión de bases de datos robusto, confiable y altamente escalable, utilizado en una variedad de aplicaciones que van desde el manejo de grandes bases de datos hasta aplicaciones gubernamentales y de infraestructura
