@@ -1,0 +1,27 @@
+--------------------------
+Software  
+
+Conjunto de programas, instrucciones y reglas informáticas para ejecutar ciertas tareas en una computadora.
+
+Sofware libre 
+
+Es el que respeta  la libertad de los usuarios y la comunidad
+es todo aquel software cuyo código fuente se puede estudiar  modificar y utilizar libremente con cualquier fin .
+
+Open Source o Código Abierto 
+
+Es un código diseñado de manera que se a visible y accesible al público : todos  pueden ver  ,modificar y distribuir el código de la forma que consideren conveniente.
+
+Existe un gran debate sobre la relación que tiene el software  libre y el open source ,  para cualquier principiante en el mundo de la programación se confunde con estos conceptos tan similares , la diferencia principal de estos radica en el software libre prioriza cuestiones éticas y morales relacionadas con el software.
+
+En cambio el software privativo es todo aquel que esta restringido cuyo código fuente es privado y se encuentra bajo la propiedad exclusiva del dueño. Sin embargo 
+
+El desarrollo colectivo de software.
+
+Se refiere al proceso de creación de programas informáticos y sistemas de información en el que participa un equipo de personas trabajando de manera colaborativa.  
+
+En este enfoque, se busca aprovechar las habilidades y conocimientos de cada miembro del equipo para lograr un resultado final de alta calidad. En el desarrollo colectivo de software, los ingenieros de software y otros profesionales utilizan estructuras, herramientas y técnicas para construir programas informáticos. Esto implica realizar un análisis previo de la situación, redactar el proyecto, crear el software y realizar las pruebas necesarias para garantizar su correcto funcionamiento antes de que el sistema esté operativo. Además, estos equipos pueden estar involucrados en todas las fases del ciclo de vida del desarrollo de cualquier tipo de sistema de información.
+
+Es importante destacar que el desarrollo colectivo de software se basa en la cooperación y la comunicación entre los miembros del equipo. Se busca aprovechar las fortalezas individuales de cada miembro para lograr un resultado final exitoso. A medida que el equipo trabaja en conjunto, se fomenta el intercambio de ideas, la resolución de problemas y la mejora continua del proceso de desarrollo. El desarrollo colectivo de software es especialmente relevante en la actualidad, ya que casi todas las empresas y organizaciones dependen del software para llevar a cabo sus actividades y procesos. Además, el uso de aplicaciones y programas es una parte cotidiana de la vida de muchas personas. Por lo tanto, es difícil ignorar la importancia del desarrollo de software en nuestras vidas. Este proceso permite crear y mejorar aplicaciones y sistemas informáticos que facilitan y optimizan la realización de tareas en diferentes ámbitos, desde el trabajo hasta el ocio. Además, el desarrollo de software atrae la atención de las personas y empresas debido a la amplia variedad de soluciones que ofrece, como la automatización de tareas y procesos, lo que aumenta la eficiencia y la productividad.
+
+
