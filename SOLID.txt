@@ -1,0 +1,87 @@
+SOLID: Los 5 principios que te ayudarán a desarrollar  Software de calidad
+
+SOLID es el acronimo que acuño Michael Feathers , basandose en los principios de la programacion orientada a objetos que robert C. Martin había recopilado en el año 2000 
+
+Los Principios SOLID
+
+S- Single Responsibility Principle (SRP)
+O- Open/ Closed Principle (OCP)
+L- Liskov Substitution Principle (LPS)
+I- Interface Segregation Principle (ISP)
+D- Dependency inversion Principe (DIP)
+
+Entre los objetivos de tener en cuenta estos 5 principios a la hora de escribir código encontramos: 
+
+crear un Sotfware eficaz: que cumpla con su cometido y que sea robusto y estable 
+
+Escribir un código limpio y flexible ante los cambios ; que se pueda modificar fácilmente según necesidad , que sea reutilizable y mantenible
+
+Permite escalabilidad: Que acepte ser ampliado con nuevas funcionalidades de manera ágil.
+
+En este sentido la aplicación en los principios SOLID esta muy relacionada con la comprensión y el uso de Patrones de diseño que nos permitirán mantener una alta cohesión y por tanto , un bajo acoplamiento de software. 
+
+¿Que son la cohesión y el acoplamiento?
+
+Son dos conceptos muy relevantes a la hora de diseñar y desarrollar software.
+
+Acoplamiento 
+El acoplamiento se refiere al grado de interdependencia que tiene dos unidades software entre , si , entendiendo por unidades de software entre si , entendiendo por unidades de software: clases subtipos , métodos , módulos , funciones , bibliotecas, etc. 
+
+si dos unidades de software son completamente independientes la una de la otra decimos que estan desacopladas 
+
+Cohesiona 
+
+La cohesion de software es el grado en que elementos diferentes de un sistema permanecen unidos para alcanzar un mejor resultado , que si trabajaran por separado  , se refiere a la forma en que podemos agrupar diversas unidades de software para  crear una unidad mayor.
+
+1. Principio de Responsabilidad Unica
+
+La S del Acronimo del que hablamos hoy se refiere a Single Responsibility Principle (SRP). Según este principio “una clase debería tener una, y sola una razón para cambiar”. Es este precisamente , “razón para cambiar”, lo que robert C. Martín identifica como “responsabilidad”
+El principio de responsabilidad única es le mas importante y fundamental de SOLID muy sencillo de explicar , pero el mas difícil de seguir en la practica.
+
+2. Principio de Abierto / Cerrado
+
+“you should be able to extend a classes  behavior , without modifying it”.
+
+El segundo principio  la  O de SOLID lo  formulo Berthrand Meyer en 1988 en su libro “Object Oriented Software Construction ” y dice: “ Deberías ser capaz de extender el comportamiento de una clase , sin modificar ” En otras palabras: Las clases que usas deberían estar abiertas para poder extenderse y cerradas para modificarse. 
+
+Es importante tener en cuenta el Open/Closed Principle (OCP) a la hora de desarrollar clases , librerías o frameworks. 
+
+3. Principio de Sustitución de Liskov
+
+“Derived classes must be substitutable for their base classes ”
+
+La L de SOLID alude al apellido de quien lo creó , Barbara Liskov, Y dice que “las clases derivadas deben poder sustituirse por su clase base”
+
+Esto significa que los objetos deben poder ser remplazadas por instancias de sus subtipos sin alterar el correcto funcionamiento del sisitema o lo que es lo mismo: si en un programa utilizamos cierta clase , debeíamos poder usar cualquiera de sus cubclases , sin interferir en la funcionalidad del programa .  
+
+Segun Robert C. Martin incumplir el  Liskov Substitution Principle (lLPS) implica violar también el principio de Abierto/ Cerrado.
+
+4. Principio de segregación de la interfaz
+
+“Make fine grained interfaces that are client specific”
+
+En el cuarto principio de SOLID , el tio Bob sugiere: “haz interfarces que sean específicas para un tipo de cliente” es decir para una finalidad concreta.
+
+En este sentido según , el interface Segregation Principle (IPS) es preferible contar con muchas interfaces que definan poco métodos que tener una interfaces forzada a implementar muchos  metodo a los que no dará uso. 
+
+5. Principio de Inversion de dependencias
+
+“Depend on abstractions , not on concretions”
+
+Llegamos a l ultimo principio: “Depende de abstraccion, no de clases concretas”
+
+Asi, Robert C. Martin Recomienda: 
+
+1- Los modulos de alto nivel no deberian depender de modulos de bajo niveñ . Ambos deberian depender de abstracciones 
+
+2- Las abstracciones no deberian depender de los detaller . Los detaller deberian depender de las abstracciones. 
+
+El objetivo del Dependency inversion Principle (DIP) consiste en reducir las dependencias entre los módulos del codigoo , es decir alcanzar un bajo acoplamiento de  las clases. 
+
+Conclusion 
+
+Los principios SOLID son eso: Principios , es decir , buenas practicas que pueden ayudar a escribir un mejor codigo : más limpio , mantenible y escalable. 
+
+Como indica el propio Robert C. Martin en su articulo “Getting a SOLID start”  mo se trata de reglas , ni leyes , ni verdades absolutas , sino mas bien soluciones de sentido comun a problemas comunes , son heuristicos , basados  en la experiencia : , “se ha observado que funcionan en muchos casos; peor no hay pruebas de que siempre funcionen , ni de que siempre se deban seguir  ”
+
+SOLID nos ayuda a categorizar lo que es buen o mal codigo y es innegable que un codigo limpio tendera más a salir airoso del “control de calidad de codigo ”
