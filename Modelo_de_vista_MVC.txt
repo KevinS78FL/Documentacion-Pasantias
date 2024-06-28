@@ -1,0 +1,41 @@
+¿Qué es el MVC en programación?
+
+EL MVC o modelo-vista-controlador es un patrón de arquitectura de software, muy empleado en la industria del desarrollo web. Piensa en cualquier framework que te guste, o quieras aprender… lo más probable es que use este patrón. 
+Pero ¿Que es Framework?
+Es un termino que provine del ingles y significa “marco de trabajo” o “estructura”. En el ámbito de la programación un framework es un conjunto de herramientas y librerías que se utilizan para desarrollar aplicaciones mas fácilmente de manera mas eficiente.
+Es decir   un framework es un conjunto de reglas y convenciones que se usan para desarrollar software de manera mas eficiente y parida. Estos marcos de trabajo se emplean para ahorrar tiempo y esfuerzo en el desarrollo de aplicación , ya que proporciona una estructura básica que se puede  utilizar como punto de partida . Ademas , los frameworks tambien ofrecen soluciones a problemas comunes en ek desarrollo de software , lo que significa que los desarrolladores , pueden centrarse en las funcionalidades específicas de su aplicación en lugar de perder tiempo resolviendo problemas tecnicos 
+okey , ya aclarado por que framework  es un termino crusial , continuemos con MVC
+
+¿En qué consiste? Muy sencillo, consta de 3 partes: modelo, vista y controlador. En cada una de estas partes se encuentra una lógica distinta, lo cual permite disfrutar de código más limpio, y más escalable.
+MVC se usa inicialmente en sistemas donde se requiere el uso de interfaces de usuario , aunque en la practica en el mismo patrón de arquitectura se puede utilizar para distintos tipos de aplicaciones , surge de la necesidad de crear software mas robusto con un ciclo de vida mas adecuado , donde se potencie la facilidad de mantenimiento , reutilización del código y la separación de conceptos. 
+ Su fundamento es la separación del codigo en tres capas diferentes, acostadas por su resposabilidad en lo que se llaman Modelos, Vistas y Controladores , o lo que es lo mismo , MODELO , VISTA , CONTROLADOR.
+Con este patrón de arquitectura, conseguiremos separar la lógica de negocio (el modelo), la presentación de los datos (la vista), y la gestión de la interacción del usuario (controlador).
+
+Muy bonito el diagrama, pero te estarás preguntando posiblemente como funciona. No te preocupes, en este artículo te lo voy a explicar, y vamos a ver cada componente de este patrón, y como el usuario interactúa con estos.
+
+Componentes del MVC
+Como acabamos de ver, el MVC está dividido en 3 componentes esenciales, el modelo, la vista y el controlador. Pero… ¿para qué sirve cada uno?
+Modelo
+Empezamos por el modelo. Este componente se encarga de la lógica del negocio, es decir, de los datos. Generalmente, en esta parte se incluyen las consultas a base de datos, además de las consultas, o búsquedas que se requieran para que nuestra aplicación muestre los datos que necesitamos.
+Vista
+La vista, como su nombre indica, es lo que el usuario ve. Es decir, la presentación de nuestra aplicación o web. Muestra la información al usuario de una manera legible y ordenada.
+En esta parte del MVC, no existe la lógica, ya que viene proporcionada por el controlador y el modelo.
+Controlador
+El controlador es el encargado de controlar. Es el intermediario entre el usuario y el modelo, ya que obtiene lo que el usuario quiere consultar, y se lo pasa al modelo, que posteriormente obtendrá los datos que el controlador le proporcionará a la vista.
+Genial, ahora que lo entiendes medianamente bien, podemos ver las ventajas que este patrón nos brinda.
+¿Por qué debería usar el MVC?
+El patrón MVC se hizo para separar preocupaciones y la falta de modularidad que existía en las aplicaciones. Existen diversas ventajas de este patrón, y te las voy a contar ahora.
+Separación de preocupaciones
+Nadie quiere mantener una web que son 2 archivos con 30000 líneas cada uno. Por eso mismo el MVC, busca separar la lógica (Modelo), la presentación (Vista) y la gestión de las interacciones del usuario (Controlador). Esto nos va a ahorrar muchos dolores de cabeza, y ayudará a reducir la complejidad de nuestra web, para así conseguir que cada componente pueda ser modificado sin afectar a las otras partes de nuestro desarrollo.
+Reutilización de código
+Al estar todo bien dividido, podemos reutilizar el código a nuestro antojo en varias partes del proyecto, o incluso en proyectos diferentes. Por ejemplo, un modelo puede ser usado por varios controladores y por varias vistas.
+Facilita el desarrollo colaborativo
+Al existir una separación clara, cada programador puede participar en una parte del proyecto sin afectar al trabajo de otros programadores, así tanto equipos de front-end como de back-end podrán trabajar juntos sin problemas.
+Facilidad de mantenimiento
+El mantenimiento de una aplicación que presenta el patrón MVC se simplifica. Los cambios en la lógica del negocio se pueden realizar sin afectar a las vistas, y viceversa. Esto hará que sea más fácil corregir errores, implementar nuevas características y realizar actualizaciones para la aplicación.
+Flexibilidad y escalabilidad
+Con el patrón MVC podremos escalar y adaptar nuestra aplicación de la manera más eficiente a medida que esta va creciendo. Los componentes pueden ser editados o reemplazados según sea necesario.
+Facilita las pruebas automatizadas
+La separación clara entre lógica, presentación y gestión nos permitirá crear pruebas automatizadas para cada componente por separado. Esto mejorará la calidad del código y reducirá el tiempo y el costo asociados a la detección y corrección de errores.
+Ahora que ya sabes qué es el MVC en programación y sus ventajas, ¿a qué esperas para implementarlo en tus proyectos?
+
