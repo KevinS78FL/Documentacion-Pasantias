@@ -1,0 +1,60 @@
+Programacion PHP 
+
+PHP es un lenguaje de programación para desarrollar aplicaciones y crear sitios web que conquista cada día mas seguidores. Fácil de usar y en constante perfeccionamiento es una opción segura para aquellos que desean trabajar en proyectos calificados y sin complicaciones.
+
+La programación es una actividad muy valorada y con grna demanda en el mercado , ya que la transformación digital es una realidad, especialmente para paginas web,blogs y otros canales web 
+
+sin embargo , aquellas personas que no tienen tanto conocimiento sobre lenguajes de programacion, generalmente no saben que significa PHP.
+
+Con los años , principalmente debido a su accesibilidad , el lenguaje Php ha ganado muchos seguidores, farmando una gran comunidad de apoyo.
+
+Por lo tanto , quienes lo utilizan para programar pueden resolver dudas, aprender más y estar en constante desarrollo. 
+
+¿Qué es PHP y como funciona?
+
+PHP es una lenguaje de programacion destinado a desarrollar aplicaciones para la web y crear paginas web,favoreciendo la conexión entre los servidores, y la interfaz de usuario .
+
+Entre los factores que hicieron PHP se volviera tan popular, se destaca el hecho de que es de codigo abierto. 
+
+Esto significa que cualquiera puede hacer cambios en su estructura. En la practica, esto representa dos cosas importantes:
+
+1 Es de codigo abierto no hay restricciones de uso vinculadas a los derechos. El usuario puede usar PHP para programar en cualquier proyecto y comercializarlo sin problemas 
+
+2 Está en contaste perfeccionamiento  Gracias a una comunidad de desarrolladores proactiva y  comprometida
+
+La funcion principal de php , en la practica 
+
+El php generalmente es definido como un lenguaje del ladp del servidor . Esto significa que se aplica en la programacion que tiene lugar en el servidor web responsable de ejecutal la aplicación o, mas a menudo , en un sitio web 
+
+Este trabajo previo permite cargar los elementos de una pagina antes de mostrarlos al usuario que accede a un sitio web.
+
+El codigo PHP se ejecuta en el servidor que al leer los comandos puede activar todos los elementos funcionales y la interfaz visual del sitio web.
+
+Quizas, la aplicación principal del lenguaje PHP cuando  hablamos de la web es estructurar sitios web en wordpress.
+La simplicidad para aprender a usarlo y el desarrollo del codigo abierto le facilita el trabajo a los profesionales que eligen estructurar sitios web utilizando la plataforma, pues a medida que avanzan las configuraciones y ediciones se simplifican aun ,mas .
+
+Cuales son las ventajas de usar PHP  
+
+El php trae una serie de beneficios que se identifican facilmente cuando analizamos sus caracteristicas y las diferentes posibilidades de aplicación de dicho lenguaje. 
+
+Hou en dia , el mercado de programacion busca profesionales con experiencia en aplicaciones web, y en escenario PHP es el principal recurso.
+
+- Aprendizaje Intuitivo simplificado
+el lenguaje PHP se considera uno de los mas faciles de aprender entre las muchas opciones que un programador puede y debe tener en su portafolio de recursos y conocimientos.
+
+-Código Abierto 
+-Admite una gran cantidad de datos
+
+-compatibilidad con las principales bases de datos 
+
+Entre las principales bases de datos utilizadas PHP es compatible con:
+-oracle
+-mySQL
+-Interbase
+-Sqlite
+-Sybase.
+
+
+
+
+
