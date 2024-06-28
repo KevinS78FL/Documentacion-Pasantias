@@ -1,0 +1,154 @@
+Html:lenguaje de etiqueta de hipertexto
+
+Html (lenguaje de marcas de hipertexto , del ingles hypertext maekup language) es el componente mas basico de la web , define el significado y la estructura del contenido web, además de html , generalmente se utilizan otras tecnologías , para describir la apariencia/presentación de una pagina web (CSS) o la funcionalidad/comportamiento (JavaScript).
+
+“hipertexto” hace referencia a los enlaces que conectan paginas web entre si, ya sea dentro de un unico sitio web o entre sitios web , los enlaces son aspectos fundamental de la web , al subir contenido a internet y vincularlo a las paginas creadas por otras personas , te conviertes en un participante activo en la “world wide web”(red informática mundial ).
+
+HTML fue inventado por Tim Berners-Lee, un físico del instituto de investigación CERN en Suiza. Se le ocurrió la idea de un sistema de hipertexto basado en Internet y publicó la primera versión de HTML en 1991. Desde entonces, cada nueva versión del lenguaje HTML viene con nuevas etiquetas y atributos para el marcado.
+
+
+ Utiliza “marcas” para etiquetar texto , imágenes y otros contenido para mostrarlo en un nevegador wed las marcas HTMl incluyen “elementos” especiales como <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output> (en-US), <progress>, <video>, <ul>, <ol>, <li> y muchos otros. 
+
+Un elemento HTML se distingue de otro texto en un documento mediante “etiquetas”,que consisten en el nombre del elemento rodeado por “<” y ”>”. El nombre de un elemento dentro de una etiqueta no distingue entre mayúscula y minúscula. Es decir se puede escribir en mayúsculas, minúsculas o una mezcal . Por ejemplo, la etiqueta <title> se puede escribir como <title>,</title> o de cualquier otra forma.
+
+Entonces. ¿Qué es HTML en realidad?
+
+HTML , no es un lenguaje de programación; es un lenguaje de marcado que define la estructura de tu contenido . HTML consiste en una serie de elementos que usarás para encerrar diferentes partes del contenido para que se vena o comporten de una determinada manera. Las etiquetas de encierre pueden hacer de una palabra o una imagen un hipervínculo a otro sitio , se pueden cabiar plabras a cursiva agrandar o achicar la letra, etc.
+
+las partes principales del elemento son:
+
+    1. La etiqueta de apertura:consite en el nombre del elemento (en este caso ,<p>)encerrado por parentesis angulares (<>) de apertura y  cierre . Establece donde comienza o empieza a tener efecto el elemento- en este caso , donde es el comienzo del párrafo.
+       
+    2. La etiqueta de cierre: Es igual que la etiqueta de apertura , excepto que incluye una barra de cierre (/)antes del nombre de la etiqueta. Establece donde termina el elemento- en este caso donde termina el párrafo-.
+       
+    3. El contenido : Este es el contenido del elemento , que en este caso es solo texto.
+       
+    4. El elemento: la etiqueta de apertura , mas la etiqueta de cierre , mas el contenido equivalente al elemento .
+
+Estructura básica de html:
+-----------------------------------
+
+<!DOCTYPE HTML > 
+<html>
+       <head>
+          información técnica para el navegador 
+       </head>
+        <body>
+            contenido que aparecerá en la pagina web 
+         </body>
+ </html>
+
+
+<!DOCTYPE HTML >
+<html>
+         <head>
+                 <title>example </title>
+         </head>
+         <body >
+                  <h1> 
+                 <p>   hola! </p>
+                  </h1>
+          </body>
+    </html>
+
+----------------------------
+Ejemplo 
+
+<!DOCTYPE html>
+ <html>
+    <head>
+         <title> hola </title> 
+    </head>
+  <body>
+     <left> <p>
+  <h1> Hoy 02 de abril del 2024 </h1> práctica </p>
+
+ <h3> Html </h3>
+
+ <p>
+Las siglas html,(lengua de marcado de hipertexto) con las inicales lo dicen "lenguaje de marcado de hipertexto "  es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.sin embargo existe un gran debate de las persona que se intruducen en la  industria de la progración ya que confunde o toman en cuanta que html es un lenguale de "programación" y no es asi... </p>
+
+<center>
+
+<h2> Lenguajes de progración </h2>
+
+</center>
+
+<h3> JAVASCRIPT </h3>
+
+<p>
+Se define con el lenguaje dináminco que usualemente es utilizado , por progradores de paginas wed , por su facilidad de los bloques dinámincos , al igual de ser un lenjuague de alto rendimiento que garantiza mejorar la interfaz del usuario 
+</p> 
+
+<h3> PHP </h3>
+
+<p>
+Php (PRE-PROCESADOR DE HIPRETEXTO ) se desgtigue de otros lenguajes de progración por su su simplicidad para los programadores
+</p>
+
+<h3> PYTHON </h3>
+
+<p> 
+Este legunaje se encarga de crear una amplia variedad de aplicaciones, lo curiosidad de este lenguaje es que no esta especializado para algún problema en específico  
+</p>
+
+</body>
+
+</html>
+
+
+
+Etiquetas para párrafos
+-----------------------------------------------------------------------------
+<p> Sirve para separar parrafos y dejar espacios en blanco
+
+<br> Sirve como fin de línea o como un punto y aparte    
+
+&nbsp; &nbsp; Crear espacios en blanco entre las palabras
+
+<pre></pre> formato de texto, el texto se mostrará como se escribió en el codigo fuente
+
+<hr></hr> Permite trazar lineas horizontales para dividir o crear secciones en la página y <hr color="red"> así como <hr size=10px>
+
+<fieldset></fieldset> Crea un rectángulo alrededor del texto o imagen
+
+<legend>Titulo</legend> Asignar un encabezado al fieldset
+
+<center></center> Sirve para alinear un encabezado o un párrafo al centro de la pagina
+
+Tipos de letras 
+------------------------------------------------------
+
+<h1></h1> Le da tamaño al texto, varia del 1 al 6
+
+<b></b> Estilo Negrita
+
+<tt></tt> Teletipo
+
+<strong></strong> Fuerte, como negrita
+
+<i></i> Cursiva
+
+<em></em> Émfasis, como cursiva
+
+font-style: italic // Cursiva en css
+
+<u></u> Subrayado
+
+<strike></strike> Texto tachado    
+
+<s></s> Texto tachado
+
+<sup></sup> Superíndice, como elevado en matemáticas
+
+<sub></sub> Subíndice
+
+<marquee></marquee> El texto se desplaza de derecha a izquierda repetidamente    
+
+<font size="7px">TEXTO</font> Para asignar tamaño al texto, se denota en pixeles el tamaño
+
+<font color="red">TEXTO</font> Para dar color al texto, red, green, orange, blue etc...
+
+<font face="arial">TEXTO</font> Tipo de fuente del texto            
+
+
