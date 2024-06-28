@@ -1,0 +1,56 @@
+--------------------------------------------
+--------------------------------------------
+
+VISUAL STUDIO CODE 
+
+Es una plataforma de lanzamiento creativa que puede utilizar para editar , depurar y copilar codigo y finalmente publicar  una aplicación.
+
+Los editores de texto son útiles para escribir archivos de texto son útiles para escribir archivos de texto plano  y código fuente de programas y paginas web. 
+
+Es un editor de código fuente desarrollado por microsoft.
+
+--Caracteristicas
+
+con grandes características útiles para agilizar el trabajo para agilizar el trabajo .
+
+- Multiplataforma  Windows, GNU/linux y macOS
+
+-INTELLISENSE  Esta relacionada con  el edición de código , auto completado y resaltado de sintaxis , lo que permite agilizar la codificación .
+
+- Depuración incluye la función de depuración que ayuda a detectar errores en el código , es capaz de detectar los mínimos errores en las lineas de código 
+
+-Uso de control de versiones   es compatible con GIT(Sistema de control de versiones que permite modificaciones del software).
+
+-Exenciones permite modificar personalizar y agregar nuevas funciones adicionales. 
+
+¿Para qué nos sirve?
+
+Sabemos que el VS code es un editor de texto optimizado que proporciona muchas facilidades para escribir depurar y probar codigo. De igual modo , cuenta con funcionalidades sorprendentes de gran provecho para cualquier profesional , no está limitado para desarrollar un tipo de aplicación , mas allá.
+
+Algo importantey una ventaja con respecto a un IDE completo es que incluye todos los componentes en un solo paquete , con VS Code puedes instalar únicamente las herramientas de desarrollo requeridas .
+
+-----------------------------------------------
+-----------------------------------------------
+SUBLIME TEXT
+
+Es un editor de texto para escribir codigo en casi cualquier formato de archivo .
+pensado desde un inicio en la velocidad haciéndolo uno de los editores de texto mas rapido y facil de usar.
+
+Ademas sublime tex es una multiplataforma disponible para linux windows y XOS , sin embargo es un programa de pago , se puede descargar una versión de pruebas por un tiempo limitado…
+
+--Caracteristicas
+
+-Simplicidad posee una interfaz limpia y sencilla que no  muestra barras de herramientas y dialogos de configuración. 
+
+-Minimapa permite la sencilla navegacion dentro del programa .
+
+-DerecionadorPuede fijar colores para tu código dependiendo del lenguaje que estés empleando.
+
+-amplia sintaxis  Soporta un grna numero de lenguajes (C,C++,C#, CSS,Python, Javascrip,Java , HTML.)
+
+-Autocompletado  , ofrece una lista de palabras posibles de acuerdo a palabras que hayas empelado anteriormente 
+
+Asimismo , sublime tex editor , posee una característica de resaltado para HTML , CSS, JAVA, PHP y muchos otros lenguajes .
+Esta especialmente pensado para escribir  sin distracciones ,
+
+
