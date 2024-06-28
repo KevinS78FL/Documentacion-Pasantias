@@ -1,0 +1,64 @@
+LICENCIA DE SOFTWARE 
+
+Es la autorización que otorga un autor o autores que permiten el derecho a terceras personas de utilizar su creación o recurso.
+
+El autor ostenta el derecho intelectual exclusivo y lo concede a otros como un permiso , en este caso una licencia de software.
+
+Las lincencia de software que se utilizan con mayor frecuencia 
+
+FREEWARE: Es la licencia que se otorga con los programas gratuitos , sin límites ni en el tiempo ni en la funcionalidad del programa. 
+
+SHAREWARE Y TRIAL: Estos programas pueden ser utilizados de manera gratuita  pero comúnmente son versiones de prueba, lo que el tiempo de uso es limitado , una vez finalizado el tiempo de prueba hay que comprar el programa completo o desinstarlo.
+
+ADWARE: Suelen ser programas shareware pero al instalarlos de forma autonomatica nos muestra publicidad, en ocasiones al ejecutarlo y en otras  solamente al instalarles, Cuando  se compra la version de la licencia completa. normalmente se elimina la publicidad. 
+
+SOFTWARE LIBRE: En este el autor entrega el programa para que sea usado , modificado , copiado , y distribuido , normalmente estos sirven de base para otros programas que si pueden ser de pago pero suelen ser baratos.
+
+
+Cláusula Primera: Objeto.
+La presente licencia tiene por objeto establecer los fundamentos, términos y condiciones que determinan el uso, copia, modificación y distribución del software que se genera con aporte total o parcial de recursos públicos.
+Cuando se trate de software generado con recursos privados, corresponderá al autor del software manifestar la voluntad de acogerse a la presente licencia en todos sus términos y condiciones.
+Cláusula Segunda: Definiciones.
+En el marco de la presente licencia se entenderá por:
+Autor: Persona natural o jurídica que crea algo o que ha hecho alguna obra científica, literaria, tecnológica o artística.
+Autor del software: es la persona natural o jurídica que toma la iniciativa y la responsabilidad de crear y desarrollar el software.
+Apropiación social del conocimiento: proceso que implica la disposición del conocimiento en un escenario y lenguaje comunes para la sociedad y la posibilidad de que el ser humano lo haga suyo como elemento útil y necesario para su beneficio y provecho. En otras palabras, es la democratización del acceso, uso y desarrollo del conocimiento como estrategia para su adecuada transmisión y aprovechamiento entre los distintos actores sociales, que derivará en el mejoramiento de la calidad de vida de su entorno.
+Código ejecutable: también llamado archivo ejecutable es un archivo binario, escrito en lenguaje máquina, que puede ser ejecutado por un computador.
+Código fuente: texto escrito en un lenguaje de programación específico, contentivo de un conjunto de instrucciones que se puede compilar, traducir o interpretar para generar un código equivalente, por ejemplo, puede generar código ejecutable.
+Conocimiento libre: es todo aquel conocimiento que puede ser aprendido, interpretado, aplicado, enseñado y compartido libremente y sin restricciones, pudiendo ser utilizado para la resolución de problemas o como punto de partida para la generación de nuevos conocimientos. Ello implica que el conocimiento se genera, adquiere y comparte sin ninguna atadura ni sujeción, puesto que contribuye al bien común de la humanidad y al desarrollo pleno de los pueblos. Las libertades de crear, modificar o mejorar, adquirir, usar, distribuir y compartir serán consideradas condiciones fundamentales para la liberación del conocimiento como bien común. En consecuencia, el conocimiento se concibe como un constructo individual y colectivo que enriquece la diversidad cognitiva, espiritual y cultural de los pueblos, dado que pertenece a la humanidad y constituye un medio para el ejercicio de la soberanía popular y el desarrollo humano integral.
+Derecho de autor: Es el derecho que posee el autor sobre sus creaciones sean estas obras científicas, literarias, tecnológicas o artísticas. El derecho de autor protege exclusivamente la forma mediante la cual las ideas del autor son descritas, explicadas, ilustradas o incorporadas a las obras.
+Derechos morales: Son los derechos inherentes al ser humano del autor, son de naturaleza inalienable, inembargable, imprescriptible e irrenunciable, y comprenden la divulgación, paternidad, arrepentimiento y modificación, revelación o intimidad, e integridad.
+Derechos patrimoniales: Son los derechos que posee el autor o el titular del derecho y se caracterizan por ser transferibles, temporales y renunciables. Comprenden el derecho de reproducción, distribución, comunicación pública y transformación.
+Destinatario o usuario: persona natural o jurídica que usa, copia, modifica o distribuye el software.
+Distribución: acción mediante la cual a través de medios físicos o digitales se pone a disposición o entrega el software a otro usuario.
+Interfaz: se refiere a la conexión o al medio de conexión que se da de manera física o funcional entre dispositivos, sistemas o entes (persona-máquina), es decir, es el medio que permite la interacción entre dos entidades diferentes.
+Liberación de software: acción mediante la cual se publica y se otorga permiso a terceros para ejercer determinados derechos sobre el software en los términos y condiciones planteados por el licenciante.
+Licencia: es un contrato mediante el cual el autor y/o el titular de los derechos de una obra tangible o intangible establece los permisos de uso de la misma, conforme a los términos y condiciones que en ella se otorgan, preservando el reconocimiento moral del autor y estableciendo los modos en los cuales la misma será utilizada, modificada y distribuida. La licencia de software permitirá el estudio, modificación, uso, aplicación, distribución, incluyendo la difusión pública y la creación de obras derivadas, con cualquier propósito legal; responsable y enmarcado en el ordenamiento jurídico vigente. La licencia será irrevocable, de carácter extraterritorial y garantizará que el software se licencie cumpliendo con los principios del conocimiento libre, y las obras derivadas se licencien bajo los términos y condiciones previstos en la licencia original.
+Licencia en extenso: se refiere al documento que contiene ampliamente desarrollados los términos y condiciones que conforman el contrato de licencia.
+Licencia resumida: hace referencia al texto que debe colocarse en el encabezado del código fuente y que contiene una síntesis de los términos y condiciones básicas que sostienen la licencia. 
+Licenciamiento múltiple: es la práctica de conceder dos o más licencias para una misma obra con el objetivo de compatibilizar licencias.
+Licenciante: persona natural o jurídica que libera el software a partir de los términos y condiciones de la presente licencia.
+Licenciatario: Persona natural o jurídica que ejerce los derechos otorgados por el licenciante conforme a los términos y condiciones de la presente licencia.
+Medidas tecnológicas de restricción del conocimiento: conjunto de tecnologías y procedimientos implementados en software y/o en hardware con el objeto de controlar la copia y distribución de obras en formatos digitales.
+Modificación: acción mediante la cual se modifica o se cambia algo en el software, variando sus características o cualidades.
+Obra derivada: La obra que crea el licenciatura a partir de la obra original o de alguna de las modificaciones de ésta.
+Programa de computación: conjunto de instrucciones que se ejecutan en un computador para llevar a cabo una o más tareas.
+Recursos Públicos: Son los recursos pertenecientes al patrimonio público de la Nación que son entregados a personas naturales o jurídicas por los entes y órganos de la Administración Pública Nacional mediante transferencias, aportes, subsidios, contribuciones o alguna otra modalidad similar para el cumplimiento de finalidades de interés o utilidad pública, hasta que se demuestre el logro de dichas finalidades.
+Repositorio digital libre: Es una plataforma informática que contiene el respaldo de programas, bases de datos y archivos creados para garantizar la reposición de la información, en caso de ser necesaria, y facilitar la libre distribución de creaciones intelectuales, a fin de propiciar y promover la libertad del conocimiento.
+Responsabilidad contractual: deber de responder por los perjuicios derivados del incumplimiento de una obligación proveniente de una relación contractual.
+Responsabilidad: capacidad existente en todo sujeto activo de derecho para reconocer y aceptar las consecuencias de un hecho realizado libremente.
+Reporte: documento generado por el sistema que presenta de manera estructurada y/o resumida, datos relevantes guardados o generados por el software, importantes para un fin determinado.
+Software: equipamiento lógico o soporte lógico de un sistema informático que comprende el conjunto de componentes necesarios para hacer posible la realización de tareas específicas.
+Software libre: Programa de computación en cuya licencia el autor garantiza al usuario el acceso al código fuente y lo autoriza a usar el programa con cualquier propósito legal; responsable y enmarcado en el ordenamiento jurídico vigente, copiarlo, modificarlo y distribuirlo con o sin modificaciones, preservando en todo caso el derecho moral al reconocimiento de autoría.
+
+ESTRUCTURA DE UNA LICENCIA 
+Licencia de Software Resumida de la Fundación CENDITEL
+Nombre del software: XXX XXXX
+Descripción: XXX XXXX XXX XXXX
+Nombre del licenciante y año: Fundación CENDITEL (Año)
+Autores: XXX XXXX (Rol), XXX XXXX (Rol), XXX XXXX (Rol), XXX XXXX (Rol) y XXX XXXX (Rol)
+La Fundación Centro Nacional de Desarrollo e Investigación en Tecnologías Libres (CENDITEL), ente adscrito al Ministerio del Poder Popular para Educación Universitaria, Ciencia y Tecnología (MPPEUCT), concede permiso para usar, copiar, modificar y distribuir libremente y sin fines comerciales el SOFTWARE XYZ, sin garantía alguna, preservando el reconocimiento moral de los autores y manteniendo los mismos principios para las obras derivadas, de conformidad con los términos y condiciones de la licencia de software de la Fundación CENDITEL.
+El software es una creación intelectual necesaria para el desarrollo económico y social de la nación, por tanto, esta licencia tiene la pretensión de preservar la libertad de este conocimiento para que contribuya a la consolidación de la soberanía nacional.
+Cada vez que copie y distribuya el SOFTWARE XYZ debe acompañarlo de una copia de la licencia. Para más información sobre los términos y condiciones de la licencia visite la siguiente dirección electrónica: http://derechoinformatico.cenditel.gob.ve/licencia-de-software/ 
+
+
