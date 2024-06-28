@@ -1,0 +1,49 @@
+¿Qué es Laravel en programación?
+
+Laravel es un framework PHP gratis y de codigo abiertp que brinda un conjunto de herramientas y recursos para crear aplicaciones modernas. Posee un ecosistema integral que combina funciones integradas y una variedad de paquetes y extenciones compatibles.
+
+Este Framework de PHP creció en popularidad rápidamente en los ultimos años, y muchos desarrolladores lo adoptaron con su framework de trabajo favorito para lograr un proceso de desarrollo optimizado 
+
+“Laravel es un marco de aplicación web con una sistaxis expresiva y elegante. Ya sentamos las bases , liberándote para crear sin preocuparte por las cosas pequeñas”
+
+¿Laravel es frontend o Backend?
+
+Lavavel es backend , aunque tiene algunas cuestiones de frontend, como herramientas de construcción de estilo frontend como sistemas de validación , consultas dinámicas y paginación , permitiendo que  los desarrolladores puedan concentrarse en otras cosas en el código.
+
+¿Para qué sirve Laravel?
+
+Laravel incluye herramientas que facilitan la construccion de aplicaciones web, haciendo de este  proceso algo  mucho mas rápidp y dando como resultado un código bien estructurados y fácil de mantener.
+
+Hoy en dia , exixten muchisismos sitios web creados con esta tecnología incluyendo grandes empresas como Disney , Twitch, the New Yors Times , entre otros.
+
+Al ser uno de los pocos frameworks PHP , Laravel es muy versátil y puede ser usado por empresas IT , de medicinas , de viaje , comercios , etc. Según el sitio Wed mDevelopers , estas son sus aplicaciones más habitulaes: 
+
+Sitios de redes sociales. 
+Aplicaciones de varias paginas y de una sola pagina (MPA y SPA)
+sitios web estáticos y dinámicos.
+Aplicaciones de nivel empresarial.
+sitios web de comercio electrónico.
+Sistemas de administración.
+
+ ¿Como funciona  Laravel?
+
+	Base de datos: Proporciona la mejor abstraccion de bases de datos de su clase sin doleres de cabeza . Consulta y actualiza tus datos sin esfuerzo. Eloquent se combina perfectamente con MySQL , Postgres, Sqlite y SQL Server. 
+
+Queues: Envía trabajos en segundo plano ára realizar tareas lentas como enviar  correos electrónicos y generar informes mientras mantienes tiempos de respuesta ultrarrápidos . El robusto sistema de colas de Laravel  puede procesar trabajos usando Redis Amazon SQS o incluso MySQL  y Postgres 
+
+WebSckets: Laravel echo y las transmisión de eventos hacen que sea muy  facil crear experiencias de usuario modernas y en tiempo real. Crea increibles aplicaciones en tiempo real  mientras potencias sus websockets con PHP puro ,Node.js o soluciones sin servidor como Pusher y ably.
+
+Autenticación: deja de preocuparte por esto. Laravel proporciona la base para  una autenticación segura basada en sesiones , mientras que laravel  Sanctum proporciona una autenticación sencilla para las api y las aplicaciones móviles.
+
+¿Por qué es importante usar laravel?
+
+Al momento de programar cualquier herrmienta que permita acortar plazos será bien recibida, pero si ademas , el resultado es atractivo y facil de mantener , mejor todovía , como se explica en su sitio web:”Laravel valora la belleza, nos encanta el código limpio tanto como a ti”.
+
+
+Es fácil de aprender: si bien Laravel requiere una comprensión general de PHP y tener conceptos técnicos sobre programación orientada a objetos (POO), es una tecnología relativamente fácil de aprender.  
+    • Tiene una comunidad activa: esto quiere decir que hay foros y sitios web donde permanentemente se responden dudas habituales. Además, esto permite que el framework esté libre de bugs y que siempre esté actualizándose.  
+      
+    • Permite simplificar procesos: Laravel fue diseñado casi exclusivamente para facilitar las tareas habituales en proyectos de desarrollo web. Algunas de ellas son el enrutamiento, la autenticación, la migración, el almacenamiento en caché, entre otras. 
+En resumen, como anuncia en su sitio web: “Laravel es para todos, ya sea que haya estado programando durante 20 años o 20 minutos. Es para astronautas de la arquitectura y hackers de fin de semana. Para aquellos con títulos y para aquellos que abandonaron los estudios para perseguir sus sueños. Juntos, creamos cosas increíbles”.
+
+
