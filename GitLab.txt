@@ -1,0 +1,12 @@
+
+GitLab es un repositorio de gestión de proyectos basado en Git que ofrece una interfaz web para controlar el repositorio y muchas otras herramientas. Permite gestionar proyectos de desarrollo de software y todos los archivos relacionados a medida que van cambiando. Algunas de las características y funcionalidades de GitLab incluyen: 
+
+
+    • Autenticación contra servicios como LDAP. 
+    • Distintos tipos de acceso y permisos, como el uso de roles y grupos, que permiten restringir proyectos a ciertos usuarios y limitar su acceso a ciertos contenidos o acciones específicas 
+    • Los usuarios pueden acceder al proyecto a través de la web y por SSH, con intercambio de claves pública-privada. 
+    • Seguimiento de incidencias y comentarios de un proyecto, permitiendo a los usuarios comentar aspectos del proyecto que consideren relevantes 
+    • Integración continua y entrega continua (GitLab CI/CD), que permite el desarrollo, las pruebas y el despliegue continuos de una aplicación 
+    • Agrupación de varios proyectos relacionados en un grupo, y la posibilidad de crear subgrupos para crear una jerarquía de hasta 20 niveles de grupos 
+    • Servicio de asistencia (Service Desk) que permite a los clientes enviar mensajes a través de un correo electrónico sin necesidad de registrarse en GitLab, generando automáticamente una issue con el contenido del correo 
+      
