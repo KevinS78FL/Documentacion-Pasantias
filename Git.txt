@@ -1,0 +1,25 @@
+¿Qué es GitHub?
+
+GitHub es un sitio web que permite a los desarrolladores alojar y revisar el código de sus proyectos. Proporciona herramientas para la gestión de versiones, seguimiento de problemas y colaboración en equipo. Es muy popular en la comunidad de desarrollo de software y se utiliza ampliamente para proyectos de código abierto. 
+
+¿Cómo funciona GitHub?
+
+GitHub utiliza el sistema de control de versiones Git para rastrear los cambios en el código fuente. Los desarrolladores pueden crear repositorios en GitHub para almacenar y organizar su código. Pueden trabajar en el código de forma individual o colaborar con otros desarrolladores en el mismo proyecto. 
+
+Características principales de GitHub:
+
+    • Control de versiones: GitHub utiliza Git para realizar un seguimiento de los cambios en los archivos, lo que permite a los desarrolladores revertir a versiones anteriores y fusionar cambios de forma segura. 
+    • Gestión de problemas: Los desarrolladores pueden utilizar GitHub para realizar un seguimiento de los problemas o errores en su código, asignar tareas, discutir soluciones y realizar un seguimiento del progreso. 
+    • Colaboración: GitHub facilita la colaboración en equipo, permitiendo a los desarrolladores trabajar juntos en un proyecto de forma remota. Pueden realizar cambios en paralelo y fusionarlos sin problemas. 
+    • Integración continua: GitHub se integra con herramientas de integración continua como Travis CI o Jenkins, lo que permite a los desarrolladores automatizar las pruebas y la implementación de su código. 
+      
+¿Cómo empezar con GitHub?
+
+    1. Crea una cuenta en GitHub en https://github.com/. 
+    2. Explora proyectos y repositorios existentes para familiarizarte con la plataforma. 
+    3. Crea tu propio repositorio para alojar tu código. 
+    4. Clona el repositorio en tu computadora y comienza a trabajar en tu proyecto. 
+    5. Aprende a utilizar los comandos básicos de Git para realizar cambios, confirmarlos y enviarlos a tu repositorio en GitHub. 
+    6. Aprovecha las características de colaboración de GitHub para trabajar con otros desarrolladores.
+GitHub. Ambas plataformas son repositorios Git alojados en la web, pero GitLab ofrece características adicionales como la integración continua y entrega continua, así como la posibilidad de agrupar proyectos relacionados en grupos y subgrupos 
+
